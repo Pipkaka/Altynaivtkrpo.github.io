@@ -1,8 +1,9 @@
 body {
     margin: 0;
     padding: 0;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: 'Ethnocentric';
     background-color: #111;
+    color: white;
 }
 
 header {
@@ -12,6 +13,7 @@ header {
     text-align: center;
     top: 0;
     width: 100%;
+    font-family: 'Conthrax SemiBold';
 }
 
 #header p {
